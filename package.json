@@ -1,0 +1,11 @@
+{
+  "name": "websocketToESP8266",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/delmontz/websocketToESP8266.git",
+  "author": "delmontz <delmontz@dgl.tokyo>",
+  "license": "none",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
